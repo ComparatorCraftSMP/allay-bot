@@ -21,13 +21,13 @@
     "@skyra/env-utilities": "^1.2.0",
     "colorette": "^2.0.20",
     "discord.js": "^14.11.0",
-    "langchain": "^0.0.75"
+    "langchain": "^0.0.78"
   },
   "devDependencies": {
     "@sapphire/cli": "^1.6.1",
     "@sapphire/prettier-config": "^1.4.5",
     "@sapphire/ts-config": "^4.0.0",
-    "@types/node": "^20.1.7",
+    "@types/node": "^20.2.1",
     "@types/ws": "^8.5.4",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.8.8",
